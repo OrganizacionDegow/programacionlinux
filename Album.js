@@ -29,7 +29,7 @@ const Title = styled.h4`
 `;
 
 const Text = styled.p`
-  color: #4b4e5a;
+  color: #70964c;
   font-family: ${props => props.theme.font.title};;
   font-size: .9rem;
   margin: 0;
