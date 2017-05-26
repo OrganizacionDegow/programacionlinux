@@ -32,7 +32,7 @@ const Text = styled.p`
   color: #70964c;
   font-family: ${props => props.theme.font.title};;
   font-size: .9rem;
-  margin: 0;
+  margin: 2;
 `;
 
 
