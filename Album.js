@@ -3,7 +3,7 @@ import styled from 'styled-components';
 import { Row, Col } from 'react-styled-flexboxgrid';
 import fetch from 'isomorphic-fetch';
 import { connect } from 'react-redux';
-
+<p>No se lo que hago</p>
 const Item = styled.div`
   margin-bottom: 1em;
   cursor: pointer;
